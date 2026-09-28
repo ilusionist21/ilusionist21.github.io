@@ -1,0 +1,10 @@
+﻿User-agent: OAI-SearchBot
+Allow: /marco-antonio-ramos-pacompia/
+
+User-agent: ChatGPT-User
+Allow: /marco-antonio-ramos-pacompia/
+
+User-agent: GPTBot
+Disallow: /marco-antonio-ramos-pacompia/
+
+Sitemap: https://ilusionist21.github.io/marco-antonio-ramos-pacompia/sitemap.xml
